@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Vestminster Ko‘prigi",
+    "city": "London",
+    "address": "Londonda bir joyda",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indoneziya",
+    "city": "Bali",
+    "address": "Indoneziyada bir joyda",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Qorli Tog‘lar, Tailand",
+    "city": "Bangkok",
+    "address": "Tailandda bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Chiroyli Quyosh Chiqishi, Tailand",
+    "city": "Puket",
+    "address": "Tailandda bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Pendia Bali, Indoneziya",
+    "city": "Bali",
+    "address": "Indoneziyada bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gilos Gullari Bahori",
+    "city": "Tokio",
+    "address": "Yaponiyada bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten, Fransiya",
+    "city": "Parij",
+    "address": "Fransiyada bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Qorli Tog‘lar, Tailand",
+    "city": "Bangkok",
+    "address": "Tailandda bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Sylhetda bir joyda",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Dengiz Sohili",
+    "city": "Chittagong",
+    "address": "Chittagongda bir joyda",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Bu tavsif",
+    "reviews": [],
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
